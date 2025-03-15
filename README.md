@@ -53,7 +53,3 @@ Vous pouvez me contacter pour toute question ou collaboration via :
 - Email : [ton.email@example.com]
 - LinkedIn : [Votre profil LinkedIn]
 - GitHub : [Votre profil GitHub]
-
-## License
-
-Ce projet est sous [licence MIT](https://opensource.org/licenses/MIT).
